@@ -3,7 +3,7 @@ EvaBootstrap
 
 EvaBootstrap is a css framework based on Twitter Bootstrap (TB), but removed invasive from TB. Which means you could use EvaBootstrap in any of your exists project, EvaBootstrap will NOT CHANGE your default css styles.
 
-EvaBootstrap will be used as main front-end framework for project [EvaEngine](https://github.com/AlloVince/eva-engine).
+EvaBootstrap is core front-end part for project [EvaEngine](https://github.com/AlloVince/eva-engine).
 
 Differece from Twitter Bootstrap
 --------------------------------
@@ -57,11 +57,12 @@ Thanks to project [typo.css](https://github.com/sofish/typo.css), you could add 
 
 ###New LESS functions for quick css generate
 
+###Percent grid system
+
+###3 columns layout
+
 
 Suggestions
 --------------
 
 Contact AlloVince by blog : http://avnpc.com/
-
-
-
