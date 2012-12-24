@@ -825,6 +825,8 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .btn .caret{margin-top:0;}
 .navbar .nav{line-height:30px;}
 .navbar .divider-vertical{height:50px;}
+.form-inline .btn{margin-bottom:10px;}
+.form .input-block-level{width:100%;}
 .hidden{display:none;visibility:hidden;}
 .visible-phone{display:none !important;}
 .visible-tablet{display:none !important;}
